@@ -1,0 +1,4 @@
+[19-Feb-2016 16:38:18 America/Sao_Paulo] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/normateasy/public_html/config/conection.php on line 7
+[19-Feb-2016 16:38:18 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/normateasy/public_html/config/conection.php on line 7
+[19-Feb-2016 16:40:12 America/Sao_Paulo] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/normateasy/public_html/config/conection.php on line 7
+[19-Feb-2016 16:40:12 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/normateasy/public_html/config/conection.php on line 7
